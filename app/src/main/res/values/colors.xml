@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F50057</color>
+    <color name="colorPrimaryDark">#00AA80</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="nav_item_state_list">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="FaqButton">#FFFFFF</color>
+    <color name="FaqText">#1e88e5</color>
+    <color name="Faqsheet">#e5e5e5</color>
+</resources>

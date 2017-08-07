@@ -1,0 +1,215 @@
+<resources>
+
+    <!-- App Related -->
+
+    <string name="app_name">Gi Rage</string>
+    <string name="Story1">Bachendri Pal is a mountaineer who made history by becoming the first Indian woman to reach the summit of Mount Everest in 1984. She realised she wanted to be a mountaineer at the age of twelve, when she along with her friends scaled a 13,123 ft mountain on a school picnic. From that time on, she knew her future lay in scaling the highest of mountains. She bagged several awards during her mountaineering career, including the Padmashree and the Arjuna awards which she received in the years 1985 and 1986 respectively. By continuously reaching new heights in her career, Bachendri Pal proved that all women can achieve success in any field they choose to pursue.
+</string>
+    <string name="app_intro_skip">Skip</string>
+
+    <!-- Bottom Navigation Tittles-->
+
+    <string name="item_1">Home</string>
+    <string name="item_2">HelpLine</string>
+    <string name="item_3">Situation</string>
+
+    <!-- Faq Question-->
+
+    <string name="fa1">WHAT IS GI RAGE ?</string>
+    <string name="fa2">HOW TO USE GI RAGE ?</string>
+    <string name="fa3">WHAT IS PANIC BUTTON ?\nAnd\n HOW TO USE IT ?</string>
+    <string name="fa4">WHAT IS GPS TECHNOLOGY ?</string>
+    <string name="fa5">WHY REAL LIFE STORIES AND MOTIVATION ?</string>
+    <string name="fa6">WHAT IS EMERGENCIES NUMBER\n OR \nHELPLINE NUMBERS ?</string>
+    <string name="fa7">WHY SAFETY TIPS ?</string>
+    <string name="fa8">IS THIS APPLICATION IS ONLY FOR GIRLS ? \nIS IT TOTALLY GIRL ORIENTED ? \nWHAT A BOY OR A MEN CAN DO ?</string>
+    <string name="fa9">WE NAME OUR APP “GI rage” WHY ?\n WHATS THE LOGIC BEHIND ? \nAND WHY THIS LOGO ?</string>
+
+    <!-- Faq Answer  -->
+
+    <string name="fqa1">GI RAGE is an Android app which will try to help girls and women’s to overcome there fears in the society and to be Brave enough to tackle any Situation.</string>
+    <string name="fqa2">Just go to You tube and type GI rage or check our menu where we provide you the link of that You tube  video  , so that you can directly jump to the video from here itself. In that video we have completely explained  how to use GI rage.</string>
+    <string name="fqa3">And we think that this is the most the important feature that  we are providing you through GI rage. Panic button is nothing but an emergency feature which you can use whenever you are or will be  in some trouble.  Its very  simple just feed a contact of a person whom you want to ping whenever you are in trouble. After saving your contact , just tap a PANIC BUTTON and with that tap your current location with a default message i.e.  I’m in trouble , I need help will be sent to your given number.</string>
+    <string name="fqa4">If you are stranger or you don’t know the location then this feature will help you out. We think that if girls or women’s whenever wanted to use washroom in a public area , its very difficult to find a one. So to find TOILETS , POLICE  STATION etc  just go through this app , and you can find  the  safest and nearest possible location without asking anyone else.</string>
+    <string name="fqa5">We feel that if someone is going though this hard phase and is depressed , I they  feel  weak. So they can feel  better  just by going through all the true stor.ies and get motivated .There will be some good movies also by which you can easily entertain yourself and get motivated.\nOur motive is to make you feel  Safe , Secure and Strong.</string>
+    <string name="fqa6">There are so many Emergency numbers available for girls and women’s through which they can get help but , very  few people are aware of this because there is no awareness. So here you just have to register with your city , we don’t need your personal detail like name , number or address only need to know about your city  and you will get all the numbers (Helpful) related to your city on your mobile display.</string>
+    <string name="fqa7">In this part we will provide you some safety tips and will guide you through all those situations wherever you feel that you are or might get in trouble. So to explain this part in one line there is phrase “ PREVENTION IS BETTER THAT CURE “. So this is what this point is all about .</string>
+    <string name="fqa8">If you are thinking same then let me tell you , boys plays a huge role and the first and the major thing that every boy or men should do is to RESPECT GIRLS , HELP THEM UNCONDITIONALLY .\n\n
+ If a I talk about this application then boys plays a vital role in it .\n What they can actually do is to SHARE THIS APP to your  MOTHER , SISTER and YOUR FRIENDS.\n\n
+“ NOT ONLY TO PROVE EVERYONE BUT TO PROVE YOURSELF THAT YOU ARE A REAL MEN “
+    </string>
+    <string name="fqa9">We believe that this app is all about a girl and her courage so we decided to use a tagline  “ A GIRL WITH A COURAGE “ and to name our app , we decided to take first two letters from GIRL and last four letter from Courage i.e. GI + rage so it becomes GI rage.\n\n
+        WHY THIS LOGO ?  Well when you see this logo , a mother is holding her child in her arms , as we know this app is all about  A girl and her Courage so we think the most courageous women in this world is a  MOTHER .
+</string>
+
+    <!-- Tagline -->
+
+    <string name="Tagline"> THANK YOU VERY MUCH FROM THE TEAM OF GI rage .\n
+    FOR any query you can visit our FACEBOOK page\n https://www.facebook.com/girage/ or our Instagram page\nhttps://www.instagram.com/gi.rage/ \n
+        You can also mail us on -\n help.girage@gmail.com
+    </string>
+
+    <!-- App Related -->
+
+    <string name="title_activity_home">Gi-Rage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- Motivational Story -->
+
+
+    <!-- Movie Title -->
+
+    <string name="MillionDollarBaby">Million Dollar Baby</string>
+    <string name="TheDevilWearsPrada">The Devil Wears Prada </string>
+    <string name="Spy">Spy </string>
+    <string name="EnglishVinglish">English Vinglish </string>
+    <string name="TheBlindSide"> The Blind Side </string>
+    <string name="EasyA">Easy A</string>
+    <string name="Fargo">Fargo</string>
+    <string name="LittleMissSunshine"> Little Miss Sunshine</string>
+    <string name="BendItLikeBeckham">Bend It Like Beckham</string>
+    <string name="BanditQueen">Bandit Queen</string>
+    <string name="PitchPerfect">Pitch Perfect</string>
+    <string name="Poorna">Poorna</string>
+
+    <!-- Movie detail -->
+
+    <string name="aMillionDollarBaby">Million Dollar Baby throws every stereotype about a girl to the wind. It also rightfully tells us that our age might only slow us down physically, but not our spirit. Because Maggie Fitzgerald tells us that dreams are not bound by limits</string>
+    <string name="aTheDevilWearsPrada">Because Miranda Priestly rules in a man world. And Andrea Sachs is her perfect foil. You can pick either side and not regret it because they both hold their own. It also helps that the movie is very funny and the fashion game is on point. </string>
+    <string name="aPitchPerfect">A bunch of oddballs decide to join forces and compete at the national a cappella competition. Hilarity ensues. All the good girls, the mean girls, the weird girls are set into stereotypes just to break them. And what a win that is. </string>
+    <string name="aBendItLikeBeckham">Gurinder Chadha magnum opus is all about girl power. Beg, lie, fight but do not let go of your dreams because of gender stereotypes. And a more befitting ode to women football fans might not be found. </string>
+    <string name="aFargo">The lead of this Coen brothers neo-noir comedy thriller is a pregnant detective investigating the case of two homicidal maniacs. For every time there is a movie of a macho man punching and making cars fly, there is Fargo, depicting a woman at her most vulnerable and yet her strongest time. </string>
+    <string name="aTheBlindSide">The is the story behind the making of NFL player, Michael Oher, who played for the Baltimore Raven and the Tennessee Titans and is currently playing for the Carolina Panthers. From a traumatised kid to a prized player, Ohers life was changed by the kindness and love of a woman who took him in during his worst times.  </string>
+    <string name="aEasyA">In the face of the righteous school bullies, Olive embraces her reputation as a "dirty skank". Easy A is essentially an urge to young women to not let others perspective change or affect ones true self. It is also a masterclass on how to show that reputed middle finger to people who talk behind your back. </string>
+    <string name="aLittleMissSunshine">Because Olive ideally should give every girl confidence goals. She is a chubby, bespectacled kid and she is fabulous. Olive might doubt it at times but she knows that there is none quite like her. </string>
+    <string name="aSpy">Move over Chief Inspector Jacques Clouseau, there is a new bumbling goof in town. And she goes by the name of Susan Cooper. She will take every notion about a spy thriller and smash them with her bare hands. It also helps that Susan Cooper is brought to life by the hilarious and badass Melissa McCarthy. </string>
+    <string name="aBanditQueen">Because it tells the story of Phoolan Devi that everyone must know and how she subverted a life of ruination to become one of the most dangerous dacoits of India. And how for the longest time her name struck fear in the hearts of people, especially her perpetrators. </string>
+    <string name="aEnglishVinglish">The triumph of a mother in a world that demands one to be cool and hip. Of course, all of that mostly circles around knowing the English language. What this movie shows, very beautifully is that kind and gentle is the new cool. </string>
+    <string name="aPoorna">Based on the true story of a 13-year-old Adivasi from Telangana who became the youngest girl in history to climb Mount Everest. A SMALL FILM THAT STANDS TALL.</string>
+
+    <!-- Real Story Title -->
+
+    <string name="BachendriPal">Bachendri Pal</string>
+    <string name="ArunimaSinha">Arunima Sinha</string>
+    <string name="BhaktiSharma">Bhakti Sharma: The Girl Who Swims Across Oceans</string>
+    <string name="MaryKom">Mary Kom: Legendary Indian Boxer</string>
+    <string name="Puja">Puja Thakur: Wing Commander in the Indian Air Force</string>
+    <string name="KrushnaaPatil">Krushnaa Patil </string>
+    <string name="DickyDolma">Dicky Dolma </string>
+    <string name="ReenaKaushalDharmashaktu">Reena Kaushal Dharmashaktu</string>
+    <string name="ArchanaSardana">Archana Sardana </string>
+    <string name="NeerjaBhanot">Neerja Bhanot</string>
+
+    <!-- Real Story Detail -->
+
+    <string name="aBachendriPal">Bachendri Pal is a mountaineer who made history by becoming the first Indian woman to reach the summit of Mount Everest in 1984. She realised she wanted to be a mountaineer at the age of twelve, when she along with her friends scaled a 13,123 ft mountain on a school picnic. From that time on, she knew her future lay in scaling the highest of mountains. She bagged several awards during her mountaineering career, including the Padmashree and the Arjuna awards which she received in the years 1985 and 1986 respectively. By continuously reaching new heights in her career, Bachendri Pal proved that all women can achieve success in any field they choose to pursue.</string>
+    <string name="aArunimaSinha">Arunima Sinha is a woman of substance who deserves all the praise and recognition we can give her. She is the first female amputee to climb Mount Everest. The former national volleyball player lost her leg when she was pushed out of a train by thieves who wanted to snatch her bag and gold chain. She fell onto the railway track and another train ran over her, crushing her leg below the knee. She was rushed to the hospital, where she had to undergo a leg amputation in order to save her life. Refusing to succumb to her disability or feel sorry for herself, the determined young woman excelled in a basic mountaineering course she decided to take. She was determined to climb Everest with the help of her prosthetic leg and she did!</string>
+    <string name="aBhaktiSharma">Bhakti Sharma, an Indian open swimmer, set a world record after swimming 1.4 miles in 52 minutes in the freezing waters of the Antarctic ocean (at a temperature of 1°C).  She became the youngest and first Asian girl to achieve this success. Bhakti has been pursuing open water swimming for the past ten years. She has swum across four oceans, eight channels and seas (which is also a world record). She was awarded the Tenzing Norgay National Award.</string>
+    <string name="aMaryKom">Mary Kom has set one record after another and has gone on to achieve things that many athletes can only dream of . She is the only Indian woman boxer who has won six championships for India. She is also the only Indian woman to qualify for the 2012 Summer Olympics where she won a Bronze Medal. And how can anyone forget her memorable win at the Asian Games where she brought home the gold.</string>
+    <string name="aPuja">While there are many women who are making their nation proud by serving in the forces, Puja Thakur stood out this year. That is because, when one of the most powerful men visited India, Puja Thakur became the first woman to command the Guard of Honour during his visit.</string>
+    <string name="aKrushnaaPatil">In May 2009, Krushnaa Patil became the youngest woman to successfully climb Mount Everest at the age of 19. Patil is also the first Indian woman to have climbed the highest peaks in Antarctica, South America and Europe. She has also climbed six of the highest peaks in the seven continents (the seven summits). She is not only a mountaineer, but also an enthusiastic cyclist. She was a part of a cycling rally with WANI (Women’s Adventure Network of India) from Kolkata to Kanyakumari (3000km). She is also pursuing her MBA from Pune University while simultaneously keeping her passion in adventuring alive by remaining involved in courageous activities such as rafting, paragliding, rowing and horse riding.</string>
+    <string name="aDickyDolma">Dicky Dolma was added to the list of females who successfully scaled Everest in 1984. She has been interested in adventurous activities from childhood, her favourite pastime being skiing. She won a scholarship for a basic skiing course which her family declined as they didn’t approve of her missing so much school. It was not until one of the senior skiing instructors at the Skiing and Mountaineering Institute in Manali wrote a letter to Dolma’s parents did they agree to let her pursue her adventurous passions. After completing the institute’s skiing course, she underwent the basic mountaineering course. She is the only climber to have successfully scaled the peak of Everest without completing an advanced course in mountaineering.</string>
+    <string name="aReenaKaushalDharmashaktu">A freelance outdoor and mountaineering instructor based in Dehli, Reena Kaushal Dharmashaktu became the first Indian woman to ski all the way to the South Pole. The Kapersky Commonwealth Antarctic Expedition consisted of 8 women from the commonwealth countries, including Reena who represented India. The women faced blizzards and freezing temperatures below -30°C but continued skiing consistently for over 900 km across Antarctica to reach the geographic South Pole. Reena arrived at the trademark mirror ball (ceremonial South Pole) near midnight on the 30th of December, 2009.</string>
+    <string name="aArchanaSardana">Archana Sardana is the first Indian civilian base jumper and skydiver. She has made over 300 skydives, 60 underwater dives and several BASE dives all over the world. She had a very protected childhood, and her passion for adventuring was ignited later in life. Her first exposure to any kind of physical activity was a walkathon she participated in with her husband. After that, she’s never looked back and has been addicted to adventure ever since. She is now a certified skydiver, bungee jumper, BASE jumper, mountaineer and scuba diver. Her next ambition is to jump off Mount Everest and the Pitambara tower in Delhi!</string>
+    <string name="aNeerjaBhanot">On 5th September, 1986, four terrorists hijacked the Pan Am flight 73, en route to Frankfurt and onward to New York City, at Karachi. Their targets were the American travellers on the plane but with quick presence of mind, Neerja Bhanot activated a hijack code on the aircraft’s intercom, which let the three-member cockpit crew escape.
+\n Quick Recap: \n
+Neerja was born to a Brahmin family in Chandigarh on 7th September, 1963. She did her schooling from Sacred Heart Senior Secondary School in Chandigarh and later completed her college from St. Xavier’s College, Mumbai.
+\nAt an early age of 22 years, she got married and joined her husband in the Gulf. But unfortunately her marriage lasted only for two months because of dowry pressure.
+After escaping from her troubled marriage, she returned to Mumbai and lived with her parents. At this time, she got a job as a flight attendant for Pan Am and went to Miami for training. Her compassionate heart, dedication towards her work and beautiful face complimented her job.
+\nNeerja took over command of the stranded passengers and the rest of the crew.\n
+\nAccording to reports, she hid American passports after realising that they were the main target of the terrorists. When the armed men began to fire blindly, Neerja managed to fling open the emergency door and asked passengers to flee. As she shielded three children, Neerja was hit by several bullets and succumbed to her injuries .She was dubbed as the ‘Heroine of the Hijack’ after she saved hundreds of lives before dying to a hail of bullets .This unforeseen incident took place two days short of her 23rd birthday, which changed her life, that of her family and left an imprint on the pages of history.
+
+\nSuch an act of bravery was acknowledged and rewarded by the Indian, Pakistan and American governments .Neerja posthumously became the first and only woman recipient of the Ashok Chakra, India’s highest civilian award for bravery. A postage stamp was also issued in her honor in 2004.She also received the ‘Justice for Crimes Award’ and Tamgha-e-Insaniyat award(Awarded for showing incredible human kindness-Pakistan).
+</string>
+
+    <!-- Licence -->
+    <string name="Licence">Picasso uses for image loading library\n
+http://square.github.io/picasso/\n
+Copyright 2013 Square, Inc.\n
+
+Licensed under the Apache License, Version 2.0 (the "License");\n
+you may not use this file except in compliance with the License.\n
+You may obtain a copy of the License at\n\n
+
+   http://www.apache.org/licenses/LICENSE-2.0\n\n
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.\n\n
+
+
+Google Places Api\n
+https://github.com/googlesamples/android-play-places\n
+Copyright 2015 Google, Inc.\n
+
+Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at\n\n
+
+http://www.apache.org/licenses/LICENSE-2.0\n\n
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.\n
+
+
+Imgur for photo storage\n
+https://github.com/Imgur/mandible\n
+https://github.com/Imgur/mandible/blob/master/LICENSE\n\n
+
+The MIT License (MIT)\n\n
+
+Copyright © 2015 Imgur, Inc.\n\n
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:\n
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.\n
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE. \n\n
+
+
+Firebase for notification\n
+https://github.com/firebase/quickstart-ios/tree/master/messaging \n
+Copyright 2016 Google, Inc. \n
+
+Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at\n
+
+http://www.apache.org/licenses/LICENSE-2.0 \n
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.\n
+
+
+
+</string>
+
+
+    <!-- Situations -->
+    <string name="situation1">Concealed handguns, mace, or pepper spray are all handy defense devices you should consider having at the ready. Knives and guns are dangerous weapons many consider useful, but can also be used against you if you are unprepared to use them yourself. Be very cautious and smart if you choose to carry a weapon and take the proper certification classes to make sure you know how to handle a weapon safely. Never carry one illegally. Most states that respect individuals rights have CCW permits available for law abiding citizens. You can also get a small personal alarm keychain that will emit a high pitch siren like a car alarm when its pin is pulled, similar in design to a grenade\n•	Consider taking a self-defense class if you live in a dangerous area and are concerned for your well being.
+</string>
+    <string name="situation2">If you have got a long walk home from the bus or train station at night after work, consider meeting a friend near the metro stop and walking together. Staying in groups is the safest way to avoid these kinds of situations.\n\n
+•	If you must walk alone, gloom onto another group of walkers and stick close by. You do not have to know them to find safety in numbers.
+</string>
+    <string name="situation3">If the attacker is trying to choke you by wrapping his arms around your neck, bring the ball of your foot forward, as if you just kicked a soccer ball, and forcefully slam it into the area of their leg between their ankle and mid leg, or the groin. This may break their leg or otherwise incapacitate your attacker.</string>
+
+    <string name="situation4">. If an attacker tries to grab you from behind to choke you, press his forearm against your collarbone instead of trying to pull it directly off, which may be difficult if you are fighting with someone stronger than you. Put one hand above his elbow (on the forearm) and one hand below it (so your hands are on both sides of the elbow). Then, in one strong and determined movement, step and swing your entire body around like the arm is the hinge to your body screen door.\n
+•	This will get you out of his or her choke and leave his or her head, ribs, and legs wide open to your counter attack. When your attacker is behind you, the shins are right behind your legs and primed for your stomping and raking.
+</string>
+    <string name="situation5">If the attacker is trying to pick you up from behind, drop your hips quickly and violently as if you were plopping down on a love seat. This will make you harder to pick up and give you an extra moment to attack them and fend them off by stomping on their shins or repositioning for a frontal defense</string>
+    <string name="traveltitle">Public transport — another hotspot for sexual harassment.</string>
+    <string name="traveldetail">Harassment is a term that is not rather unfamiliar to the common mind a fact that disheartens a concerned mind on levels deeper than the superficial drop in command over English. All across the world, people face harassment – sometimes so severe that you start to wonder whether we as a race in fact evolved in the first place. It might raise some frowns when it is said that the receptors of harassment are largely women. Although wrongfully so, it is in fact rightly said, since harassment includes not just the despicable actions caught by the eye, but also the subtle discomforts which often get overlooked or forgotten but should not be.\n\n   According to the analysis carried out by Safecity to identify the reports pertaining to public transportation spaces, an alarming one fifth of all the data collected are incidents that happen in a public transportation space of some kind. Although this data contained reports from multiple countries, barring a negligible percentage, the data entirely contains incidents collected from various parts of India. The team went ahead to split up the incidents on the basis of common modes of transport and some general terms related to transport using keyword separations.   Close to 40 percent of incidents had a mention related to buses or the people in it. This can be thought of as clearly indicative of the prevalence of harassment incidents in buses or bus stations, since the second in line is the metro, which covers only about 16 percent of incidents a difference of more than 20 percent. Incidents in a car or taxi was 14 percent and close to seven percent in an auto rickshaw, closely followed by the train at five percent. In general, 15 percent of incidents are reported only during travel and not during the wait, while the others presented no such evidence to make conclusions either way. Even the airport had reported incidents, although its share was negligibly small.\n\n  More than 20 percent of incidents report harassment due to poor or no lighting, which might indicate that night time travel may act as the comfort zone for harassers, a phrase so ironical that one cannot not see it. It is closely followed by a tie between incidents with commenting having occurred and those where the harassers took pictures, each amounting to around 18 percent. Touching/groping follows with about 11 percent and the next was another tie between incidents where catcalls and whistling occurred and those where ogling and staring occurred, at around nine percent. Further, an analysis was carried out to perform an association on the incident types and determined that, albeit lower thresholds, these pairs were among the first to cross them, hence indicating that these pairs have a higher chance of occurring together. Surprisingly, no incident reported the presence of sexual invites.</string>
+</resources>

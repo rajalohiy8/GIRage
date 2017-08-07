@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="Emergency Contacts" />
+        <item
+            android:id="@+id/nav_Near"
+            android:title="NearBy Places" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:title="RealLife Story" />
+        <item
+            android:id="@+id/nav_manage"
+            android:title="Situations" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/AddAert"
+                android:icon="@drawable/ic_action_contact"
+                android:title="Add Alert Contact" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Connect With Us" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="FAQ's / About" />
+            <item
+                android:id="@+id/nav_lic"
+                android:title="Licence" />
+        </menu>
+    </item>
+
+</menu>
